@@ -29,7 +29,7 @@ discount strategies, and customer rating behavior using Python.
 - Seaborn
 
 ## 📁 Files
-- `amazon-product-pricing-and-review-analysis.ipynb` – Jupyter notebook containing full analysis
+- `amazon-product-pricing-and-review-analysis` – Jupyter notebook containing full analysis
 
 ## 🔗 Kaggle Notebook
 You can view the Kaggle version of this project here:  
